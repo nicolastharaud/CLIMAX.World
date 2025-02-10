@@ -3,6 +3,7 @@
 Created on Mon Feb 10 01:17:28 2025
 
 @author: nthar
+Data from Judd et al., 2024
 """
 
 import pandas as pd
